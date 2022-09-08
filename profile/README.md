@@ -1,6 +1,6 @@
 Welcome to the EU DCC on Github!
 
-🌊 Check out our new landing page [here] (https://ehn-dcc-development.github.io/eu-dcc-site)!
+🌊 Check out our new landing page [here](https://ehn-dcc-development.github.io/eu-dcc-site)!
 
 📚 Want to learn about the EU-DCC? Check out our [overview repository](https://github.com/ehn-dcc-development/eu-dcc-overview).
 
