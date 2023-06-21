@@ -1,6 +1,8 @@
 Welcome to the EU DCC on Github!
 
-⚠️⚠️⚠️ On 1st July 2023 the EU-DCC Regulation will expire. The EU gateway will be decomissioned. The underlying PKI technology has applications outside of verifiable credentials and the stewardship has thus been passed to the WHO. Read the press release on the [WHO's website](https://www.who.int/news/item/05-06-2023-the-european-commission-and-who-launch-landmark-digital-health-initiative-to-strengthen-global-health-security). ⚠️⚠️⚠️
+⚠️⚠️⚠️ IMPORTANT UPDATE ⚠️⚠️⚠️
+
+On 1st July 2023 the EU-DCC Regulation will expire. The EU gateway will be decomissioned. The underlying PKI technology has applications outside of verifiable credentials and the stewardship has thus been passed to the WHO. Read the press release on the [WHO's website](https://www.who.int/news/item/05-06-2023-the-european-commission-and-who-launch-landmark-digital-health-initiative-to-strengthen-global-health-security).
 
 🌊 Check out our new [landing page](https://ehn-dcc-development.github.io/eu-dcc-site)!
 
